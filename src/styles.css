@@ -1,5 +1,7 @@
 /* Add application styles & imports to this file! */
-@import '~@angular/material/prebuilt-themes/indigo-pink.css';
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import '~@ngx-share/button/themes/default/default-theme';
+
 body {
     padding: 2em 23em;
     background:lightgray;
